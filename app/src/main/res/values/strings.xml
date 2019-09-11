@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">All Insurance Premium Investment Calculator</string>
+
+    <string name="zero_value">0</string>
+    <string name="row_total">Total</string>
+    <string name="term">Term</string>
+    <string name="rate">Rate</string>
+    <string name="premium">Premium</string>
+    <string name="type_of_insurance">Type of Insurance</string>
+    <string name="life_insurance">Life Insurance</string>
+    <string name="health_insurance">Health Insurance</string>
+    <string name="personal_accident_insurance">Personal Accident Insurance</string>
+    <string name="other_insurance">Other Insurance</string>
+    <string name="total_premium">Total Premium</string>
+    <string name="goal_amount">Goal Amount</string>
+    <string name="sip_monthly">SIP Monthly</string>
+    <string name="per_total_amount_invested_per_month">% of total investment per month</string>
+    <string name="total_money_invested_through_sip">Total money invested through SIP</string>
+
+    <string name="select_language">Select Language</string>
+
+    <string name="hundred">hundred</string>
+    <string name="thousand">thousand</string>
+    <string name="lakh">lakh</string>
+    <string name="crore">crore</string>
+    <string name="rupee_string">rupee</string>
+
+    <string-array name="one_digit_string">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+    </string-array>
+
+    <string-array name="two_digit_string">
+        <item>eleven</item>
+        <item>twelve</item>
+        <item>thirteen</item>
+        <item>fourteen</item>
+        <item>fifteen</item>
+        <item>sixteen</item>
+        <item>seventeen</item>
+        <item>eighteen</item>
+        <item>nineteen</item>
+    </string-array>
+
+    <string-array name="tens_string">
+        <item>ten</item>
+        <item>twenty</item>
+        <item>thirty</item>
+        <item>forty</item>
+        <item>fifty</item>
+        <item>sixty</item>
+        <item>seventy</item>
+        <item>eighty</item>
+        <item>ninety</item>
+    </string-array>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
