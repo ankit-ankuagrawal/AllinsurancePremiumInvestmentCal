@@ -1,12 +1,8 @@
-package com.example.allinsurancepremiuminvestmentcalculator.interfaces;
+package com.godavari.premiuminvestmentcal.interfaces;
 
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
-import org.w3c.dom.Text;
-
-import java.util.List;
 
 public interface ViewListsHelperInterface {
     LinearLayout getLLGeneralInsuranceItem(int index);

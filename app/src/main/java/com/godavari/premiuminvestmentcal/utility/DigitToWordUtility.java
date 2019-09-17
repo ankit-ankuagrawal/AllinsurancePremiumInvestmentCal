@@ -1,12 +1,11 @@
-package com.example.allinsurancepremiuminvestmentcalculator.utility;
+package com.godavari.premiuminvestmentcal.utility;
 
 import android.content.Context;
 import android.content.res.Resources;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.example.allinsurancepremiuminvestmentcalculator.R;
-import com.example.allinsurancepremiuminvestmentcalculator.utility.AppConstants;
+import com.godavari.premiuminvestmentcal.R;
 
 public class DigitToWordUtility {
 

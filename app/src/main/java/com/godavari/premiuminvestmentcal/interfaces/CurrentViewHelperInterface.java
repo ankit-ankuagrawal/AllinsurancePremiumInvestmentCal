@@ -1,4 +1,4 @@
-package com.example.allinsurancepremiuminvestmentcalculator.interfaces;
+package com.godavari.premiuminvestmentcal.interfaces;
 
 import android.view.View;
 

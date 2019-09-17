@@ -1,4 +1,4 @@
-package com.example.allinsurancepremiuminvestmentcalculator.utility;
+package com.godavari.premiuminvestmentcal.utility;
 
 public class AppConstants {
     public static final String ENGLISH_LANGUAGE_LOCALE="en";

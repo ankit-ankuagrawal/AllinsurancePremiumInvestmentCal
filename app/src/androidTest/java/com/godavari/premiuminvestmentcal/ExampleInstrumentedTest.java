@@ -1,4 +1,4 @@
-package com.example.allinsurancepremiuminvestmentcalculator;
+package com.godavari.premiuminvestmentcal;
 
 import android.content.Context;
 

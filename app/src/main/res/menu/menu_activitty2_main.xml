@@ -23,9 +23,13 @@
         </menu>
     </item>
     <item
-        android:id="@+id/miLanguage"
-        android:icon="@drawable/ic_language_black_24dp"
-        android:title="@string/select_language"
-        app:showAsAction="ifRoom" />
-
+        android:id="@+id/miInfo"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/info"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/miShareApp"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="@string/share_the_app"
+        app:showAsAction="always" />
 </menu>

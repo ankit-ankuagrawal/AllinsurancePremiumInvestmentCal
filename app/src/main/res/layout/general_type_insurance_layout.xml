@@ -15,7 +15,8 @@
             android:id="@+id/tvTypeOfInsuranceTitle"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="0.8" />
+            android:layout_weight="1"
+            android:textSize="20sp"/>
 
         <!--it is gettibg crash every time, not stable, recheck!-->
 
@@ -24,8 +25,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="onClick"
-            android:src="@drawable/ic_cancel_black_24dp"
-            android:visibility="gone"/>
+            android:src="@drawable/ic_cancel_black_24dp" />
 
     </LinearLayout>
 
@@ -75,6 +75,7 @@
         android:id="@+id/tvDigitToWord"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textSize="18dp"
         android:textColor="@android:color/black" />
 
     <include layout="@layout/general_row_total_layout"/>

@@ -1,10 +1,10 @@
-package com.example.allinsurancepremiuminvestmentcalculator.listener;
+package com.godavari.premiuminvestmentcal.listener;
 
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.EditText;
 
-import com.example.allinsurancepremiuminvestmentcalculator.interfaces.CurrentViewHelperInterface;
+import com.godavari.premiuminvestmentcal.interfaces.CurrentViewHelperInterface;
 import com.google.android.material.textfield.TextInputEditText;
 
 public class MyEditTextTouchListener implements View.OnTouchListener {
