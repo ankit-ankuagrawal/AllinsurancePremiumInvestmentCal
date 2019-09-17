@@ -21,7 +21,8 @@
 
     <string name="select_language">Select Language</string>
     <string name="info">Information</string>
-    <string name="app_info">App is created by Ankit Agrawal, for any requirement / clarification / information contact at \nEmail-Id: ankit.ankuagrawal@gmail.com</string>
+    <string name="app_info">App is created by Ankit Agrawal and strategy by Prashant Gaikwad, for any requirement / clarification / information contact at \n\nankit.ankuagrawal@gmail.com\nprashant.gaikwadlic@gmail.com</string>
+
     <string name="share_the_app">Share the App</string>
 
     <string name="hundred">hundred</string>
@@ -29,8 +30,6 @@
     <string name="lakh">lakh</string>
     <string name="crore">crore</string>
     <string name="rupee_string">rupee</string>
-
-    <string name="title_activity_main3">Main3Activity</string>
 
     <string-array name="one_digit_string">
         <item>one</item>
